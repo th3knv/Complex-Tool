@@ -7,5 +7,7 @@
 -Kali linux 
 
 git clone https://github.com/InvalidUser01/Complex-Tool.git
+
 cd Complex-Tool
+
 python3 COMPLEX-TOOL.py
