@@ -1,8 +1,5 @@
-pip install phonenumbers
-
-pip install nslookup
-
-pip install tqdm
-
-pip install requests
+phonenumbers
+ nslookup
+tqdm
+requests
 
