@@ -8,6 +8,8 @@
 
 git clone https://github.com/InvalidUser01/Complex-Tool.git
 
+pip3 install -r requirements.txt
+
 cd Complex-Tool
 
 python3 COMPLEX-TOOL.py
